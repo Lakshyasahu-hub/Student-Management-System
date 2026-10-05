@@ -66,7 +66,12 @@ java -cp out com.lakshya.sms.StudentServiceTest
 ```
 
 ## Screenshots
-_Add 2-3 screenshots of the program running here._
+![Add student](add-student.png)
+
+   ![Students](students.png)
+
+   ![Report](report.png)
+
 
 ## Author
 Lakshya Sahu - [LinkedIn](https://www.linkedin.com/in/lakshya-825-sahu) | [LeetCode](https://leetcode.com/u/Lakshya62/)
